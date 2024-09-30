@@ -37,7 +37,7 @@ Make sure you have the following software installed on your machine:
 First, clone the repository using the following command:
 
 ```
-https://github.com/rahmanabdulquadir/fitness-equipment-and-accessories-client.git
+https://github.com/ronyislam502/fitness-equipment.git
 
 ```
 
@@ -54,9 +54,7 @@ npm install
 
 Add your Required credentials:
 
-```
-imgBB api key
-https://fitness-equipment-and-accessories-server.vercel.app/api/v1
+``
 ```
 
 ### Running the Project
